@@ -1,0 +1,15 @@
+.quotopia {
+	height: auto;
+	padding: 5px;
+	font-size: 1.07em;
+	font-style: italic;
+	overflow: hidden;
+}
+
+.quotopiaAuthor {
+	margin-top: 5px;
+	text-align: right;
+	font-size: 0.80em;
+	font-weight: lighter;
+	font-style: normal;
+}

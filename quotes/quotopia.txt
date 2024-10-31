@@ -1,0 +1,15 @@
+{
+	"fileDetails": {
+		"Name": "Quotopia",
+		"Date Updated": "Sep. 29th, 2020",
+		"Source": "Doug &quot;BearlyDoug&quot; Hazard",
+		"Notes": "Initial Release"
+	},
+	"Quotes": {
+		"0": { "Quote": "Thank you for testing out the Quotopia WordPress Plugin! I'm glad you did.", "Author": "Quotopia" },
+		"1": { "Quote": "You can use the Quote Pack Builder (on the &quot;All Quote Packs&quot; tab) to build your own Quote Packs...", "Author": "Quotopia" },
+		"2": { "Quote": "...and then use the Shortcode Builder to create the shortcode to display these quotes anywhere on your site.", "Author": "Quotopia" },
+		"3": { "Quote": "By the way, the Quotopia Quote Pack Builder was used to create this quote pack file. Just in case you were wondering... ;)", "Author": "Quotopia" },
+		"4": { "Quote": "If you enjoy this plugin, be sure to support the developer. Thank you, again, for checking out the Quotopia Plugin!", "Author": "Quotopia" }
+	}
+}
